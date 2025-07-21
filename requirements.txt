@@ -1,0 +1,20 @@
+# Core data science libraries
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+imbalanced-learn>=0.10
+matplotlib>=3.6
+seaborn>=0.12
+
+# Jupyter for notebooks
+notebook
+ipykernel
+
+# Optional: for saving notebooks as PDF
+nbconvert
+
+# For progress bars (optional, nice for ML)
+tqdm
+
+# For working with dates (optional, but common)
+dateutil
