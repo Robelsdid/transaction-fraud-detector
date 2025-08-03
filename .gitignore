@@ -85,3 +85,10 @@ coverage.xml
 .env
 .env.*
 secrets.*
+# model files
+models/
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.pt
